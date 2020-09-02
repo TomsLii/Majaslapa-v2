@@ -1,0 +1,52 @@
+
+.nav-item{
+    font-size: 26px;
+    padding: 5px 5px 5px;
+    text-transform: uppercase;
+}
+.logo{
+    font-size: 26px;
+}
+.container-fluid{
+    background-color: lightgrey;
+}
+.aboutstils{
+    padding-top: 10%;
+    background-color: #46b8da;
+    height: 400px;
+    font-size: 30px;
+
+}
+.aboutstils2{
+    padding-top: 15%;
+    background-color: #a6e1ec;
+    height: 400px;
+    color: red;
+    font-size: 30px;
+}
+.apakssadal{
+    margin: 70px;
+}
+.pelite{
+    margin: 40px;
+}
+.galerija{
+    max-width: 100px;
+    margin-left: 100px;
+    margin-right: 80px;
+    margin-top: 40px;
+}
+.kontakti{
+    margin: 60px;
+    font-family: Tahoma, serif;
+}
+#map{
+    height: 300px;
+    width: 400px;
+}
+#fons{
+    background-color: #b9def0;
+}
+.video{
+    margin: 70px;
+}
