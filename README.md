@@ -1,5 +1,4 @@
 # Majaslapa-v2
-# Majaslapa-v1
 <h2><strong>Vārds, uzvārds</strong></h2>
 <p>Toms Linmeijers<p>
 
